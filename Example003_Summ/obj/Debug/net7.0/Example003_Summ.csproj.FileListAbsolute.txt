@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\bin\Debug\net7.0\Example003_Summ.exe
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\bin\Debug\net7.0\Example003_Summ.deps.json
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\bin\Debug\net7.0\Example003_Summ.runtimeconfig.json
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\bin\Debug\net7.0\Example003_Summ.dll
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\bin\Debug\net7.0\Example003_Summ.pdb
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.dll
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\refint\Example003_Summ.dll
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.pdb
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\Example003_Summ.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Examples\Example003_Summ\obj\Debug\net7.0\ref\Example003_Summ.dll
